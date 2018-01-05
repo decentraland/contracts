@@ -1,4 +1,4 @@
-import { eth, env } from 'decentraland-commons'
+import { Contract, env, eth } from 'decentraland-commons'
 
 import { abi } from './abis/MANAToken.json'
 import TerraformReserve from './TerraformReserve'
@@ -6,7 +6,7 @@ import TerraformReserve from './TerraformReserve'
 let instance = null
 
 /** MANAToken contract class */
-class MANAToken extends eth.Contract {
+class MANAToken extends Contract {
   static getInstance() {
     if (!instance) {
       instance = new MANAToken(

@@ -1,4 +1,4 @@
-import { eth, env, Log } from 'decentraland-commons'
+import { Log, Contract, env } from 'decentraland-commons'
 
 import { abi } from './abis/LANDTerraformSale.json'
 
@@ -6,7 +6,7 @@ const log = new Log('LANDTerraformSale')
 let instance = null
 
 /** LANDTerraformSale contract class */
-class LANDTerraformSale extends eth.Contract {
+class LANDTerraformSale extends Contract {
   static getInstance() {
     if (!instance) {
       instance = new LANDTerraformSale(

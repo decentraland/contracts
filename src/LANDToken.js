@@ -1,11 +1,11 @@
-import { eth, env } from 'decentraland-commons'
+import { Contract, env } from 'decentraland-commons'
 
 import { abi } from './abis/LANDToken.json'
 
 let instance = null
 
 /** LANDToken contract class */
-class LANDToken extends eth.Contract {
+class LANDToken extends Contract {
   static getInstance() {
     if (!instance) {
       instance = new LANDToken(

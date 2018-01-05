@@ -1,4 +1,4 @@
-import { eth, env, Log } from 'decentraland-commons'
+import { Log, Contract, eth, env } from 'decentraland-commons'
 
 import { abi } from './abis/TerraformReserve.json'
 
@@ -6,7 +6,7 @@ const log = new Log('TerraformReserve')
 let instance = null
 
 /** TerraformReserve contract class */
-class TerraformReserve extends eth.Contract {
+class TerraformReserve extends Contract {
   static getInstance() {
     if (!instance) {
       instance = new TerraformReserve(
