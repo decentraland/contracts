@@ -2,7 +2,7 @@ module.exports = {
   // Abi accessible using the `.abi` property
   LANDTerraformSale: require('./LANDTerraformSale'),
   LANDTestSale: require('./LANDTestSale'),
-  LANDToken: require('./LANDToken'),
+  LANDRegistry: require('./LANDRegistry'),
   MANAToken: require('./MANAToken'),
   TerraformReserve: require('./TerraformReserve')
 }
