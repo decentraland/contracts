@@ -53,21 +53,6 @@ eth.getContract('MANAToken').lockMana()
 manaToken.lockMana()
 ```
 
-
-### Scripts
-
-**lint**
-
-Lint js files with `eslint`
-
-**docs**
-
-Builds an static page with the JSDoc documentation
-
-**test**
-
-Run tests using mocha and chai
-
 ## Contracts Addresses
 
 ### Ropsten
@@ -87,4 +72,18 @@ Run tests using mocha and chai
 
 * Terraform Reserve: 0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c
 * Return Vesting: 0x79c1fdaba012b9a094c495a86ce5c6199cf86368
+
+### Scripts
+
+**lint**
+
+Lint js files with `eslint`
+
+**docs**
+
+Builds an static page with the JSDoc documentation
+
+**test**
+
+Run tests using mocha and chai
 
