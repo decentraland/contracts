@@ -11,7 +11,7 @@ class ReturnMANA extends Contract {
     if (!instance) {
       instance = new ReturnMANA(
         'ReturnMANA',
-        env.universalGet('RETURN_MANA_ADDRESS'),
+        env.universalGet('RETURN_MANA_CONTRACT_ADDRESS'),
         abi
       )
     }

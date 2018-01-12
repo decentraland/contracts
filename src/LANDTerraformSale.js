@@ -11,7 +11,7 @@ class LANDTerraformSale extends Contract {
     if (!instance) {
       instance = new LANDTerraformSale(
         'LANDTerraformSale',
-        env.isomophicGet('TERRAFORM_CONTRACT_ADDRESS'),
+        env.isomophicGet('LAND_TERRAFORM_SALE_CONTRACT_ADDRESS'),
         abi
       )
     }

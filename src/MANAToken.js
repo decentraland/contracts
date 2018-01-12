@@ -11,7 +11,7 @@ class MANAToken extends Contract {
     if (!instance) {
       instance = new MANAToken(
         'MANAToken',
-        env.universalGet('MANA_CONTRACT_ADDRESS'),
+        env.universalGet('MANA_TOKEN_CONTRACT_ADDRESS'),
         abi
       )
     }

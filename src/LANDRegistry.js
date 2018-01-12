@@ -10,7 +10,7 @@ class LANDRegistry extends Contract {
     if (!instance) {
       instance = new LANDRegistry(
         'LANDRegistry',
-        env.universalGet('LAND_CONTRACT_ADDRESS'),
+        env.universalGet('LAND_REGISTRY_CONTRACT_ADDRESS'),
         abi
       )
     }
