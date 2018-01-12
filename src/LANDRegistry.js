@@ -63,6 +63,10 @@ class LANDRegistry extends Contract {
     return this.call('ownerOfLandMany', x, y)
   }
 
+  landOf(owner) {
+    return this.call('landOf', owner)
+  }
+
   assignNewParcel(x, y, address, opts = {}) {
     return this.transaction(
       'assignNewParcel',
