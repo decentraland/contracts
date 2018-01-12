@@ -51,6 +51,10 @@ class LANDRegistry extends Contract {
     return this.transaction('transferLand', newOwner, x, y)
   }
 
+  assetsOf(address) {
+    return this.transaction('assetsOf', address)
+  }
+
   ownerOfLand(x, y) {
     return this.call('ownerOfLand', x, y)
   }
