@@ -67,7 +67,7 @@ manaToken.lockMana()
 ### Livenet
 
 * MANA Token: 0x0f5d2fb29fb7d3cfee444a200298f468908cc942
-* LAND Registry: 0x62a4489da2a0dd1aaaB13546529Fef6F365aeE6E
+* LAND Registry: 0x6ecC974e86E642aF8E49F40C5B8Ee7f77461468e
 * LAND Proxy: 0x36fc2821c1dba31ed04682b2277c89f33fd885b7
 
 * Terraform Reserve: 0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c
