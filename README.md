@@ -55,23 +55,7 @@ manaToken.lockMana()
 
 ## Contracts Addresses
 
-### Ropsten
-
-* MANA Token: 0x2a8fd99c19271f4f04b1b7b9c4f7cf264b626edb
-* LAND Registry: 0xc371c916fdf2848e3d2c70ac1b9a17168e86d5ef
-* LAND Proxy: 0x9519216b1d15a91e71e8cfa17cc45bcc7707e500
-
-* Terraform Reserve: 0x4bc79175f1f6fded07f04aa1b4b0465ecff6f1b3
-* Return Vesting: 0x58c7e6e382c1c19c132b0361c12cbc33e2b13076
-
-### Livenet
-
-* MANA Token: 0x0f5d2fb29fb7d3cfee444a200298f468908cc942
-* LAND Registry: 0x6ecC974e86E642aF8E49F40C5B8Ee7f77461468e
-* LAND Proxy: 0x36fc2821c1dba31ed04682b2277c89f33fd885b7
-
-* Terraform Reserve: 0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c
-* Return Vesting: 0x79c1fdaba012b9a094c495a86ce5c6199cf86368
+Check [here](https://decentraland.github.io/contracts/addresses.json)
 
 ### Scripts
 
