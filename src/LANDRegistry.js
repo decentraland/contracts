@@ -1,20 +1,15 @@
 import { Contract, env } from 'decentraland-commons'
 
-import { abi } from './abis/LANDRegistry.json'
-
-let instance = null
+import { abi } from './artifacts/LANDRegistry.json'
 
 /** LANDToken contract class */
 class LANDRegistry extends Contract {
-  static getInstance() {
-    if (!instance) {
-      instance = new LANDRegistry(
-        'LANDRegistry',
-        env.universalGet('LAND_REGISTRY_CONTRACT_ADDRESS'),
-        abi
-      )
-    }
-    return instance
+  static getDefaultAddress() {
+    return env.universalGet('LAND_REGISTRY_CONTRACT_ADDRESS')
+  }
+
+  static getDefaultAbi() {
+    return abi
   }
 
   getdata(x, y) {

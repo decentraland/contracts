@@ -1,21 +1,16 @@
 import { Contract, env, eth } from 'decentraland-commons'
 
-import { abi } from './abis/MANAToken.json'
+import { abi } from './artifacts/MANAToken.json'
 import TerraformReserve from './TerraformReserve'
-
-let instance = null
 
 /** MANAToken contract class */
 class MANAToken extends Contract {
-  static getInstance() {
-    if (!instance) {
-      instance = new MANAToken(
-        'MANAToken',
-        env.universalGet('MANA_TOKEN_CONTRACT_ADDRESS'),
-        abi
-      )
-    }
-    return instance
+  static getDefaultAddress() {
+    return env.universalGet('MANA_TOKEN_CONTRACT_ADDRESS')
+  }
+
+  static getDefaultAbi() {
+    return abi
   }
 
   async getAllowance(sender) {

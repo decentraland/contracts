@@ -1,21 +1,17 @@
 import { Log, Contract, eth, env } from 'decentraland-commons'
 
-import { abi } from './abis/TerraformReserve.json'
+import { abi } from './artifacts/TerraformReserve.json'
 
 const log = new Log('TerraformReserve')
-let instance = null
 
 /** TerraformReserve contract class */
 class TerraformReserve extends Contract {
-  static getInstance() {
-    if (!instance) {
-      instance = new TerraformReserve(
-        'TerraformReserve',
-        env.universalGet('RESERVE_CONTRACT_ADDRESS'),
-        abi
-      )
-    }
-    return instance
+  static getDefaultAddress() {
+    return env.universalGet('TERRAFORM_RESERVE_CONTRACT_ADDRESS')
+  }
+
+  static getDefaultAbi() {
+    return abi
   }
 
   lockMana(sender, mana) {

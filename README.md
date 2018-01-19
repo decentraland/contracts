@@ -13,16 +13,15 @@ _MANAToken.js_
 ```javascript
 import { eth } from 'decentraland-commons'
 
-import { abi } from './abis/MANAToken.json'
-
-let instance = null
+import { abi } from './artifacts/MANAToken.json'
 
 class MANAToken extends eth.Contract {
-    static getInstance() {
-      if (! instance) {
-        instance = new MANAToken('MANAToken', '0xdeadbeef', abi)
-      }
-      return instance
+    static getDefaultAddress() {
+      return '0xdeadbeef'
+    }
+
+    static getDefaultAbi() {
+      return abi
     }
 
     async lockMana(sender, mana) {
@@ -42,14 +41,21 @@ _On the start of your app, maybe server.js_
 import { eth } from 'decentraland-commons'
 import { MANAToken } from 'decentraland-contracts'
 
-// The null here is to preserve the default account as is
-eth.connect(null, [
+eth.connect([
     MANAToken,
     // ...etc
 ])
 
-eth.getContract('MANAToken').lockMana()
-// or
+const manaToken = eth.getContract('MANAToken')
+manaToken.lockMana()
+
+// or maybe
+
+const manaToken = new ManaToken(/*address*/, /*abi*/)
+eth.connect([
+    manaToken,
+    // ...etc
+])
 manaToken.lockMana()
 ```
 
