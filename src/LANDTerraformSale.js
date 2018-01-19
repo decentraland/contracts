@@ -1,21 +1,17 @@
 import { Log, Contract, env } from 'decentraland-commons'
 
-import { abi } from './abis/LANDTerraformSale.json'
+import { abi } from './artifacts/LANDTerraformSale.json'
 
 const log = new Log('LANDTerraformSale')
-let instance = null
 
 /** LANDTerraformSale contract class */
 class LANDTerraformSale extends Contract {
-  static getInstance() {
-    if (!instance) {
-      instance = new LANDTerraformSale(
-        'LANDTerraformSale',
-        env.isomophicGet('LAND_TERRAFORM_SALE_CONTRACT_ADDRESS'),
-        abi
-      )
-    }
-    return instance
+  static getDefaultAddress() {
+    return env.universalGet('LAND_TERRAFORM_SALE_CONTRACT_ADDRESS')
+  }
+
+  static getDefaultAbi() {
+    return abi
   }
 
   buyMany(buyer, xList, yList, totalCost) {

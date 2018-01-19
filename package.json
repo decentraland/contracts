@@ -9,7 +9,7 @@
     "lint:fix": "npx eslint --fix .",
     "init": "mkdir dist",
     "clean": "rm -rf dist",
-    "contracts": "cp -r src/abis dist",
+    "contracts": "cp -r src/artifacts dist",
     "prebuild": "npm run lint && npm run clean && npm run init && npm run contracts",
     "build": "babel ./src -d ./dist --ignore specs",
     "fastbuild": "npm run clean && npm run init && npm run contracts && babel ./src -d ./dist --ignore specs",
