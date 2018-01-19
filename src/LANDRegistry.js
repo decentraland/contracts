@@ -17,14 +17,14 @@ class LANDRegistry extends Contract {
     return instance
   }
 
-  getMetadata(x, y) {
-    return this.call('landMetadata', x, y)
+  getdata(x, y) {
+    return this.call('landData', x, y)
   }
 
-  updateMetadata(coordinates, metadata) {
+  updateData(coordinates, data) {
     const x = coordinates.map(coor => coor.x)
     const y = coordinates.map(coor => coor.y)
-    return this.transaction('updateManyLandMetadata', x, y, metadata)
+    return this.transaction('updateManyLandData', x, y, data)
   }
 
   getOwner(x, y) {
