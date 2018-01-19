@@ -12,7 +12,7 @@ class LANDRegistry extends Contract {
     return abi
   }
 
-  getdata(x, y) {
+  getData(x, y) {
     return this.call('landData', x, y)
   }
 
