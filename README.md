@@ -41,10 +41,12 @@ _On the start of your app, maybe server.js_
 import { eth } from 'decentraland-commons'
 import { MANAToken } from 'decentraland-contracts'
 
-eth.connect([
+eth.connect({
+  contracts: [
     MANAToken,
-    // ...etc
-])
+      // ...etc
+  ]
+})
 
 const manaToken = eth.getContract('MANAToken')
 manaToken.lockMana()
@@ -52,10 +54,12 @@ manaToken.lockMana()
 // or maybe
 
 const manaToken = new ManaToken(/*address*/, /*abi*/)
-eth.connect([
-    manaToken,
-    // ...etc
-])
+eth.connect({
+  contracts: [
+      manaToken,
+      // ...etc
+  ]
+})
 manaToken.lockMana()
 ```
 
