@@ -12,8 +12,9 @@ class DecentralandVesting extends Contract {
     return abi
   }
 
-  getDuration(address) {
-    return this.call('duration', address)
+  async getDuration(address) {
+    const bigNumber = await this.call('duration', address)
+    return bigNumber.toNumber()
   }
 
   getCliff(address) {
@@ -24,12 +25,14 @@ class DecentralandVesting extends Contract {
     return this.call('beneficiary', address)
   }
 
-  getVestedAmount(address) {
-    return this.call('vestedAmount', address)
+  async getVestedAmount(address) {
+    const bigNumber = await this.call('vestedAmount', address)
+    return bigNumber.toNumber()
   }
 
-  getReleasableAmount(address) {
-    return this.call('releasableAmount', address)
+  async getReleasableAmount(address) {
+    const bigNumber = await this.call('releasableAmount', address)
+    return bigNumber.toNumber()
   }
 
   isRevoked(address) {
@@ -44,12 +47,14 @@ class DecentralandVesting extends Contract {
     return this.call('owner', address)
   }
 
-  getReleased(address) {
-    return this.call('released', address)
+  async getReleased(address) {
+    const bigNumber = await this.call('released', address)
+    return bigNumber.toNumber()
   }
 
-  getStart(address) {
-    return this.call('start', address)
+  async getStart(address) {
+    const bigNumber = await this.call('start', address)
+    return bigNumber.toNumber()
   }
 
   release(address) {
