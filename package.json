@@ -1,6 +1,6 @@
 {
   "name": "decentraland-contracts",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Decentraland contract interfaces to use from Javascript",
   "main": "./dist/index.js",
   "scripts": {
