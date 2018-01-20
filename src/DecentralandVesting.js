@@ -17,8 +17,9 @@ class DecentralandVesting extends Contract {
     return bigNumber.toNumber()
   }
 
-  getCliff(address) {
-    return this.call('cliff', address)
+  async getCliff(address) {
+    const bigNumber = await this.call('cliff', address)
+    return bigNumber.toNumber()
   }
 
   getBeneficiary(address) {
