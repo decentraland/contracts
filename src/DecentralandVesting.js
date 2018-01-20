@@ -1,9 +1,9 @@
 import { Contract, env } from 'decentraland-commons'
 
-import { abi } from './artifacts/TerraformReserve.json'
+import { abi } from './artifacts/DecentralandVesting.json'
 
-/** TerraformReserve contract class */
-class TerraformReserve extends Contract {
+/** DecentralandVesting contract class */
+class DecentralandVesting extends Contract {
   static getDefaultAddress() {
     return env.universalGet('TERRAFORM_RESERVE_CONTRACT_ADDRESS')
   }
@@ -57,4 +57,4 @@ class TerraformReserve extends Contract {
   }
 }
 
-module.exports = TerraformReserve
+module.exports = DecentralandVesting
