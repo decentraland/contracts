@@ -1,4 +1,4 @@
-import { Contract, env } from 'decentraland-commons'
+import { Contract, env, eth } from 'decentraland-commons'
 
 import { abi } from './artifacts/DecentralandVesting.json'
 
@@ -28,12 +28,12 @@ class DecentralandVesting extends Contract {
 
   async getVestedAmount(address) {
     const bigNumber = await this.call('vestedAmount', address)
-    return bigNumber.toNumber()
+    return eth.utils.fromWei(bigNumber.toNumber())
   }
 
   async getReleasableAmount(address) {
     const bigNumber = await this.call('releasableAmount', address)
-    return bigNumber.toNumber()
+    return eth.utils.fromWei(bigNumber.toNumber())
   }
 
   isRevoked(address) {
@@ -50,7 +50,7 @@ class DecentralandVesting extends Contract {
 
   async getReleased(address) {
     const bigNumber = await this.call('released', address)
-    return bigNumber.toNumber()
+    return eth.utils.fromWei(bigNumber.toNumber())
   }
 
   async getStart(address) {
