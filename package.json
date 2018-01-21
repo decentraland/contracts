@@ -28,9 +28,9 @@
     "decentraland"
   ],
   "author": "Decentraland",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
-    "decentraland-commons": "git+https://github.com/decentraland/commons.git#release"
+    "decentraland-commons": "git+https://github.com/decentraland/commons.git#7b0a84b3e3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
