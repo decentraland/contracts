@@ -2,19 +2,7 @@
   "name": "decentraland-contracts",
   "version": "1.1.4",
   "description": "Decentraland contract interfaces to use from Javascript",
-  "main": "./dist/index.js",
-  "scripts": {
-    "docs": "npx jsdoc -c conf.json -r src/**/*.js",
-    "lint": "npx eslint .",
-    "lint:fix": "npx eslint --fix .",
-    "init": "mkdir dist",
-    "clean": "rm -rf dist",
-    "contracts": "cp -r src/artifacts dist",
-    "prebuild": "npm run lint && npm run clean && npm run init && npm run contracts",
-    "build": "babel ./src -d ./dist --ignore specs",
-    "fastbuild": "npm run clean && npm run init && npm run contracts && babel ./src -d ./dist --ignore specs",
-    "test": "npx mocha -r babel-register -r specs/spec_utils.js specs/*.spec.js"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/decentraland/contracts.git"
@@ -29,24 +17,6 @@
   ],
   "author": "Decentraland",
   "license": "Apache-2.0",
-  "dependencies": {
-    "decentraland-commons": "git+https://github.com/decentraland/commons.git#7b0a84b3e3"
-  },
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-eslint": "^8.0.1",
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-polyfill": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
-    "babel-register": "^6.26.0",
-    "chai": "^4.1.2",
-    "eslint": "^4.11.0",
-    "eslint-config-prettier": "^2.7.0",
-    "eslint-plugin-prettier": "^2.3.1",
-    "jsdoc": "^3.5.5",
-    "mocha": "^4.0.1",
-    "npx": "^9.7.1",
-    "prettier": "^1.8.2"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
