@@ -1,7 +1,7 @@
 {
   "ropsten": {
     "MANAToken": "0x2a8fd99c19271f4f04b1b7b9c4f7cf264b626edb",
-    "LANDRegistry": "0x7a73483784ab79257bb11b96fd62a2c3ae4fb75b",
+    "LANDRegistry": "0x13fb6f508f054baac33c37c7610213b40c6be685",
     "LANDProxy": "0x7a73483784ab79257bb11b96fd62a2c3ae4fb75b",
     "TerraformReserve": "0x4bc79175f1f6fded07f04aa1b4b0465ecff6f1b3",
     "ReturnVesting": "0x58c7e6e382c1c19c132b0361c12cbc33e2b13076"
