@@ -8,8 +8,8 @@
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "LANDRegistry": "0x7e06a9512086bc44c51C07c2bF0Af338420c2A13",
-    "LANDProxy": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+    "LANDRegistry": "0xebde1cfefbdf9eae2eea69a145ddb82cb71e7651",
+    "LANDProxy": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
     "TerraformReserve": "0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c",
     "ReturnVesting": "0x79c1fdaba012b9a094c495a86ce5c6199cf86368"
   }
