@@ -16,5 +16,11 @@
     "ReturnVesting": "0x79c1fdaba012b9a094c495a86ce5c6199cf86368",
     "Marketplace": "0xb3bca6f5052c7e24726b44da7403b56a8a1b98f8",
     "ServiceLocator": "0x151b11892dd6ab1f91055dcd01d23d03a2c47570"
+  },
+  "kovan": {
+    "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
+    "LANDRegistry": "0x2059291430b9aa2F79547f657816eFb816b36614",
+    "LANDProxy": "0x537263c440943f6a6808bCb8CcB3fe03EE838aD1",
+    "Marketplace": "0x6f44f195999f06aeb5872db96cdc517f1e839f13"
   }
 }
