@@ -7,12 +7,13 @@
     "ReturnVesting": "0x58c7e6e382c1c19c132b0361c12cbc33e2b13076",
     "Marketplace": "0x80faa2b517b84a5aec1078d3600eab4c0b3aff56",
     "ServiceLocator": "0xb240b30c12d2a9ea6ba3abbf663d9ae265fbebeb",
-    "MortgageCreator": "0x2bdf545935d4264cbb7457e97d69b6b86458eb64",
+    "MortgageHelper": "0x59ccfc50bd19dcd4f40a25459f2075084eebc11e",
     "MortgageManager": "0xea06746f1bd82412f9f243f6bee0b8194d67a67d",
     "RCNEngine": "0xbeE217bfe06C6FAaa2d5f2e06eBB84C5fb70d9bF",
     "RCNToken": "0x2f45b6fb2f28a73f110400386da31044b2e953d4",
     "KyberOracle": "0x4931d0621360187199de494a1469165079b31bfc",
-    "DecentralandInvite": "0x7557dfa02f3bd7d274851e3f627de2ed2ff390e8"
+    "DecentralandInvite": "0x7557dfa02f3bd7d274851e3f627de2ed2ff390e8",
+    "EstateRegistry": "0x7e80ac16261b36c256408a7ef2f5b18a58977b69"
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
