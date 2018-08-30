@@ -18,7 +18,7 @@
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "LANDRegistry": "0xf540a0606498cfcde73f0c8a6276ad44f1930b1a",
+    "LANDRegistry": "0x46fbCfd32eA671CAa21897C09072CB6cb44C0bc9",
     "LANDProxy": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
     "TerraformReserve": "0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c",
     "ReturnVesting": "0x79c1fdaba012b9a094c495a86ce5c6199cf86368",
@@ -27,7 +27,9 @@
     "MortgageHelper": "0x59ccfc50bd19dcd4f40a25459f2075084eebc11e",
     "MortgageManager": "0xea06746f1bd82412f9f243f6bee0b8194d67a67d",
     "RCNEngine": "0xbeE217bfe06C6FAaa2d5f2e06eBB84C5fb70d9bF",
-    "DecentralandInvite": "0xf886313f213c198458eba7ae9329525e64eb763a"
+    "DecentralandInvite": "0xf886313f213c198458eba7ae9329525e64eb763a",
+    "EstateRegistry": "0x0a820c4e3a9c8d89c9a3e78dfe993b3885b229fa",
+    "EstateProxy": "0x959e104e1a4db6317fa58f8295f586e1a978c297"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
