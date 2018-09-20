@@ -24,9 +24,10 @@
     "ReturnVesting": "0x79c1fdaba012b9a094c495a86ce5c6199cf86368",
     "Marketplace": "0xb3bca6f5052c7e24726b44da7403b56a8a1b98f8",
     "ServiceLocator": "0x151b11892dd6ab1f91055dcd01d23d03a2c47570",
-    "MortgageHelper": "0x59ccfc50bd19dcd4f40a25459f2075084eebc11e",
-    "MortgageManager": "0xea06746f1bd82412f9f243f6bee0b8194d67a67d",
-    "RCNEngine": "0xbeE217bfe06C6FAaa2d5f2e06eBB84C5fb70d9bF",
+    "MortgageHelper": "0xb3d9444f88dc1c30f18c69ebd8ec6f1fa2706376",
+    "MortgageManager": "0x0bdaf0d7eb72cac0e0c8defcbe83ccc06c66a602",
+    "RCNEngine": "0xba5a17f8ad40dc2c955d95c0547f3e6318bd72e7",
+    "RCNToken": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
     "DecentralandInvite": "0xf886313f213c198458eba7ae9329525e64eb763a",
     "EstateRegistry": "0x0a820c4e3a9c8d89c9a3e78dfe993b3885b229fa",
     "EstateProxy": "0x959e104e1a4db6317fa58f8295f586e1a978c297"
