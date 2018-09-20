@@ -28,6 +28,7 @@
     "MortgageManager": "0x0bdaf0d7eb72cac0e0c8defcbe83ccc06c66a602",
     "RCNEngine": "0xba5a17f8ad40dc2c955d95c0547f3e6318bd72e7",
     "RCNToken": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+    "KyberOracle": "0x2aaf69a2df2828b55fa4a5e30ee8c3c7cd9e5d5b",
     "DecentralandInvite": "0xf886313f213c198458eba7ae9329525e64eb763a",
     "EstateRegistry": "0x0a820c4e3a9c8d89c9a3e78dfe993b3885b229fa",
     "EstateProxy": "0x959e104e1a4db6317fa58f8295f586e1a978c297"
