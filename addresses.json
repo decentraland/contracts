@@ -1,7 +1,7 @@
 {
   "ropsten": {
     "MANAToken": "0x2a8fd99c19271f4f04b1b7b9c4f7cf264b626edb",
-    "LANDRegistry": "0x9aa1d5e2df63aa098e012510ff570a7357cbd95a",
+    "LANDRegistry": "0xd90Dc3c3e64Bdb0a612a5273332FE8521b2200cA",
     "LANDProxy": "0x7a73483784ab79257bb11b96fd62a2c3ae4fb75b",
     "TerraformReserve": "0x4bc79175f1f6fded07f04aa1b4b0465ecff6f1b3",
     "ReturnVesting": "0x58c7e6e382c1c19c132b0361c12cbc33e2b13076",
@@ -14,7 +14,7 @@
     "RCNToken": "0x2f45b6fb2f28a73f110400386da31044b2e953d4",
     "KyberOracle": "0x4931d0621360187199de494a1469165079b31bfc",
     "DecentralandInvite": "0x7557dfa02f3bd7d274851e3f627de2ed2ff390e8",
-    "EstateRegistry": "0x5efb7d62f33b8bd0b7ec9730db137ab58ebdfb00",
+    "EstateRegistry": "0xdc1bc63e45c4d9431f49fa1aee71f2f9a910a50c",
     "EstateProxy": "0x124bf28a423b2ca80b3846c3aa0eb944fe7ebb95"
   },
   "mainnet": {
