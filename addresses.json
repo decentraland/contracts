@@ -35,7 +35,8 @@
     "KyberOracle": "0x2aaf69a2df2828b55fa4a5e30ee8c3c7cd9e5d5b",
     "DecentralandInvite": "0xf886313f213c198458eba7ae9329525e64eb763a",
     "EstateRegistry": "0xe34fcD12115BFe2fb632CD63fe7be5472b54173f",
-    "EstateProxy": "0x959e104e1a4db6317fa58f8295f586e1a978c297"
+    "EstateProxy": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
+    "LANDAuction": "0x54b7a124b44054da3692dbc56b116a35c6a3e561"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
