@@ -17,7 +17,7 @@
     "DecentralandInvite": "0x7557dfa02f3bd7d274851e3f627de2ed2ff390e8",
     "EstateRegistry": "0x18d96d3693899f2e1dae9ad1b049113e270f555c",
     "EstateProxy": "0x124bf28a423b2ca80b3846c3aa0eb944fe7ebb95",
-    "ERC721Bid": "0x56d870eec9b0f280d2482505007f6cf59f47844b"
+    "ERC721Bid": "0xf569a9c9f3ba5235e072080311ae7a454937511f"
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
