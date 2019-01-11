@@ -39,7 +39,8 @@
     "EstateProxy": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
     "LANDAuction": "0x54b7a124b44054da3692dbc56b116a35c6a3e561",
     "MANABurner": "0xadfeb1de7876fcabeaf87df5a6c566b70f970018",
-    "MultiSigWallet": "0x4eac6325e1dbf1ac90434d39766e164dca71139e"
+    "MultiSigWallet": "0x4eac6325e1dbf1ac90434d39766e164dca71139e",
+    "Nobody": "0xDf861993Edbe95BAFbfA7760838f8ebbd5Afda9F"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
