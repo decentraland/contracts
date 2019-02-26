@@ -42,7 +42,9 @@
     "LANDAuction": "0x54b7a124b44054da3692dbc56b116a35c6a3e561",
     "MANABurner": "0xadfeb1de7876fcabeaf87df5a6c566b70f970018",
     "MultiSigWallet": "0x4eac6325e1dbf1ac90434d39766e164dca71139e",
-    "Nobody": "0xDf861993Edbe95BAFbfA7760838f8ebbd5Afda9F"
+    "Nobody": "0xDf861993Edbe95BAFbfA7760838f8ebbd5Afda9F",
+    "ERC721Bid": "0xe479dfd9664c693b2e2992300930b00bfde08233",
+    "BidMANABurner": "0x0fcf114c63a5387878e0da051c81cb6febd93b6c"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
