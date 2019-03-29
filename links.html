@@ -22,6 +22,19 @@
       }
       a {
         margin-top: 5px;
+        text-decoration: underline;
+      }
+      span {
+        cursor: pointer;
+        font-style: italic;
+        margin-left: 8px;
+        font-size: 12px;
+        vertical-align: top;
+      }
+      @media (max-width: 768px) {
+        span {
+          display: none;
+        }
       }
     </style>
   </head>
@@ -40,6 +53,18 @@
         kovan: 'https://kovan.etherscan.io/address/',
         mainnet: 'http://etherscan.io/address/'
       }
+      const copyToClipboard = str => {
+        const el = document.createElement('textarea')
+        el.value = str
+        el.setAttribute('readonly', '')
+        el.style.position = 'absolute'
+        el.style.left = '-9999px'
+        document.body.appendChild(el)
+        el.select()
+        document.execCommand('copy')
+        document.body.removeChild(el)
+      }
+
       async function fetchContractLinks() {
         const res = await fetch(
           'https://contracts.decentraland.org/addresses.json'
@@ -57,6 +82,7 @@
           Object.keys(addresses).map(name => {
             const address = addresses[name]
             const p = document.createElement('p')
+
             const a = document.createElement('a')
             a.text = name
             a.href = baseURL + address
@@ -64,8 +90,14 @@
 
             const t = document.createTextNode(' | ' + address)
 
+            const span = document.createElement('span')
+            span.appendChild(document.createTextNode('[copy address]'))
+            span.onclick = () => copyToClipboard(address)
+
             p.appendChild(a)
             p.appendChild(t)
+            p.appendChild(span)
+
             div.appendChild(p)
           })
           app.appendChild(div)
