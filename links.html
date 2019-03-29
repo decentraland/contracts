@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="theme-color" content="#000000" />
+    <link href="https://ui.decentraland.org/styles.css" rel="stylesheet" />
+
+    <title>Decentraland - Contract Links</title>
+    <style>
+      html {
+        margin: 20px;
+      }
+      h1 {
+        text-align: center;
+      }
+      h2 {
+        margin: 30px 0 20px 0 !important;
+        text-transform: capitalize;
+      }
+      a {
+        margin-top: 5px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <h1>Decentraland - Contract Links</h1>
+    <div id="app"></div>
+
+    <script>
+      const app = document.getElementById('app')
+      const baseURLs = {
+        ropsten: 'http://ropsten.etherscan.io/address/',
+        kovan: 'https://kovan.etherscan.io/address/',
+        mainnet: 'http://etherscan.io/address/'
+      }
+      async function fetchContractLinks() {
+        const res = await fetch(
+          'https://contracts.decentraland.org/addresses.json'
+        )
+        const contracts = await res.json()
+        Object.keys(contracts).map(net => {
+          const addresses = contracts[net]
+          const baseURL = baseURLs[net]
+          const div = document.createElement('div')
+          const h2 = document.createElement('h2')
+          const t = document.createTextNode(net)
+          h2.appendChild(t)
+          div.appendChild(h2)
+
+          Object.keys(addresses).map(name => {
+            const address = addresses[name]
+            const p = document.createElement('p')
+            const a = document.createElement('a')
+            a.text = name
+            a.href = baseURL + address
+            a.target = '_blank'
+
+            const t = document.createTextNode(' | ' + address)
+
+            p.appendChild(a)
+            p.appendChild(t)
+            div.appendChild(p)
+          })
+          app.appendChild(div)
+        })
+      }
+      fetchContractLinks()
+    </script>
+  </body>
+</html>
