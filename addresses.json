@@ -20,8 +20,8 @@
     "EstateProxy": "0x124bf28a423b2ca80b3846c3aa0eb944fe7ebb95",
     "ERC721Bid": "0x250fa138c0a994799c7a49df3097dc71e37b3d6f",
     "BidMANABurner": "0x01f43c3133b83086d4776027fbd152fa8a685fb4",
-    "AvatarNameRegistry": "0xC6240797093d9C60bb422a315cf9dE25CaE27B22",
-    "AvatarNameRegistryProxy": "0x1c005aE2098C08EFE9c38b2f986E5293aeE7dfd4"
+    "AvatarNameRegistry": "0xED869c0A7db4BA053419dA81634443a8bac10335",
+    "AvatarNameRegistryProxy": "0x568892F0aC1d41D468764e1E0D5501d475D93f94"
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
