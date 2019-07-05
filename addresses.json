@@ -48,8 +48,8 @@
     "ERC721Bid": "0xe479dfd9664c693b2e2992300930b00bfde08233",
     "BidMANABurner": "0x0fcf114c63a5387878e0da051c81cb6febd93b6c",
     "MultisigContractOwner": "0xefc549434a03756f6e37a43757a2927605d8839b",
-    "AvatarNameRegistry": "0xE22AC5Ee977F9054843d75503789D3098a46e9C0",
-    "AvatarNameRegistryProxy": "0xF3eedb4fD8edB71c4d27B1e96a5ED7203466cEF1"
+    "AvatarNameRegistry": "0x894b883905bfEe2CC448880F1b59f4A762E67566",
+    "AvatarNameRegistryProxy": "0xcd816354450015A5644857FEd507afEeaE7263af"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
