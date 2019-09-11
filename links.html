@@ -49,9 +49,10 @@
     <script>
       const app = document.getElementById('app')
       const baseURLs = {
-        ropsten: 'http://ropsten.etherscan.io/address/',
         kovan: 'https://kovan.etherscan.io/address/',
-        mainnet: 'http://etherscan.io/address/'
+        mainnet: 'http://etherscan.io/address/',
+        rinkeby: 'http://rinkeby.etherscan.io/address/',     
+        ropsten: 'http://ropsten.etherscan.io/address/'        
       }
       const copyToClipboard = str => {
         const el = document.createElement('textarea')
