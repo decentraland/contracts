@@ -50,7 +50,7 @@
     "MultisigContractOwner": "0xefc549434a03756f6e37a43757a2927605d8839b",
     "AvatarNameRegistry": "0x894b883905bfEe2CC448880F1b59f4A762E67566",
     "AvatarNameRegistryProxy": "0xcd816354450015A5644857FEd507afEeaE7263af",
-    "Halloween2019Collection": "0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2",
+    "Halloween2019Collection": "0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
