@@ -23,8 +23,8 @@
     "AvatarNameRegistry": "0xd127F8d9C736d91Acdee34645e0b4C9db7178160",
     "AvatarNameRegistryProxy": "0x2d794a7c956624fb93Eb3ff6E48D5b5d6dBA127b",
     "ExclusiveMasksCollection": "0x30ae57840b0e9b8ea55334083d53d80b2cfe80e0",
-    "DCLRegistrar": "0xa4ad830caac714d9f3b3bb8035d224ed018898e9",
-    "DCLController": "0xcc8c6e55931fd29defdc967408ece02a8e1f9042"
+    "DCLRegistrar": "0xeb6f5d94d79f0750781cc962908b161b95192f53",
+    "DCLController": "0xd4e92f6ea18412dbae8b2d2b69e498a2d1064fa2"
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
