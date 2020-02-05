@@ -57,7 +57,9 @@
     "Halloween2019Collection": "0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2",
     "Halloween2019CollectionFactory": "0x07ccfd0fbada4ac3c22ecd38037ca5e5c0ad8cfa",
     "Xmas2019Collection": "0xc3af02c0fd486c8e9da5788b915d6fff3f049866",
-    "DCLRegistrar": "0x2a187453064356c898cae034eaed119e1663acb8"
+    "DCLRegistrar": "0x2a187453064356c898cae034eaed119e1663acb8",
+    "Catalyst": "0xcc054fab08127c19f621ab83ade5962cd10584ec",
+    "CatalystProxy": "0x4a2f10076101650f40342885b99b6b101d83c486"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
