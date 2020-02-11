@@ -59,6 +59,7 @@
     "Halloween2019CollectionFactory": "0x07ccfd0fbada4ac3c22ecd38037ca5e5c0ad8cfa",
     "Xmas2019Collection": "0xc3af02c0fd486c8e9da5788b915d6fff3f049866",
     "DCLRegistrar": "0x2a187453064356c898cae034eaed119e1663acb8",
+    "DCLController": "0x6843291bd86857d97f0d269e698939fb10d60772",
     "Catalyst": "0xcc054fab08127c19f621ab83ade5962cd10584ec",
     "CatalystProxy": "0x4a2f10076101650f40342885b99b6b101d83c486"
   },
