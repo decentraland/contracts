@@ -61,7 +61,8 @@
     "DCLRegistrar": "0x2a187453064356c898cae034eaed119e1663acb8",
     "DCLController": "0x6843291bd86857d97f0d269e698939fb10d60772",
     "Catalyst": "0xcc054fab08127c19f621ab83ade5962cd10584ec",
-    "CatalystProxy": "0x4a2f10076101650f40342885b99b6b101d83c486"
+    "CatalystProxy": "0x4a2f10076101650f40342885b99b6b101d83c486",
+    "MCH_Collection": "0xf64dc33a192e056bb5f0e5049356a0498b502d50"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
