@@ -67,7 +67,9 @@
     "DCLLaunchCollection": "0xd35147be6401dcb20811f2104c33de8e97ed6818",
     "DCGCollection": "0x3163d2cfee3183f9874e2869942cc62649eeb004",
     "StaySafeCollection": "0x201c3af8c471e5842428b74d1e7c0249adda2a92",
-    "StaySafeDonation": "0x56505a0313ba2b4bc0be23dbb7eb71b7885fca9e"
+    "StaySafeDonation": "0x56505a0313ba2b4bc0be23dbb7eb71b7885fca9e",
+    "ClaimWearableForFree": "0x8dd61d1a67bce13a87e20a76c6f164c388a726d6",
+    "Moonshot2020Collection": "0x6a99abebb48819d2abe92c5e4dc4f48dc09a3ee8"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
