@@ -25,7 +25,10 @@
     "ExclusiveMasksCollection": "0x30ae57840b0e9b8ea55334083d53d80b2cfe80e0",
     "DCLRegistrar": "0xeb6f5d94d79f0750781cc962908b161b95192f53",
     "DCLController": "0xd4e92f6ea18412dbae8b2d2b69e498a2d1064fa2",
-    "Catalyst": "0xadd085f2318e9678bbb18b3e0711328f902b374b"
+    "Catalyst": "0xadd085f2318e9678bbb18b3e0711328f902b374b",
+    "BuyAdapter": "0xee9cc0eccb4b10444c2d50f5dc0d67bf3417b975",
+    "AdapterFeeCollector": "0x5DC888024cB599CfDdb9E6483ED6bAe1fA9e9D18",
+    "AdapterConverter": "0x2782eb28Dcb1eF4E7632273cd4e347e130Ce4646"
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
