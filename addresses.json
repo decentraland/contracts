@@ -32,7 +32,7 @@
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "LANDRegistry": "0x58db323feb872eee56fba1f3b425879fbc9a54b6",
+    "LANDRegistry": "0xa57e126b341b18c262ad25b86bb4f65b5e2ade45",
     "LANDProxy": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
     "TerraformReserve": "0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c",
     "ReturnVesting": "0x79c1fdaba012b9a094c495a86ce5c6199cf86368",
@@ -46,7 +46,7 @@
     "RCNToken": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
     "KyberOracle": "0x2aaf69a2df2828b55fa4a5e30ee8c3c7cd9e5d5b",
     "DecentralandInvite": "0xf886313f213c198458eba7ae9329525e64eb763a",
-    "EstateRegistry": "0x55fd705b431f95c8e09fcf85a245377568cc2c6e",
+    "EstateRegistry": "0x1784ef41af86e97f8d28afe95b573a24aeda966e",
     "EstateProxy": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
     "LANDAuction": "0x54b7a124b44054da3692dbc56b116a35c6a3e561",
     "MANABurner": "0xadfeb1de7876fcabeaf87df5a6c566b70f970018",
