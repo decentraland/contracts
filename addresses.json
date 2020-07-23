@@ -78,7 +78,12 @@
     "EstateMiniMeToken": "0x8568f23f343694650370fe5e254b55bfb704a6c7",
     "BuyAdapter": "0xf4fbd84193f9aaf9779dedbb415a806933eb1c95",
     "AdapterFeeCollector": "0x0d58aaae9f0c4d020486f534363f3fca7a6aecb6",
-    "AdapterConverter": "0x2859581da59bd4e16a866dd06b461b76d8e489a4"
+    "AdapterConverter": "0x2859581da59bd4e16a866dd06b461b76d8e489a4",
+    "DappcraftMoonminerCollection": "0x1e1d4e6262787c8a8783a37fee698bd42aa42bec",
+    "DGSummer2020Collection":"0xbf53c33235cbfc22cef5a61a83484b86342679c5",
+    "PMOuttathisworldCollection":"0x75a3752579dc2d63ca229eebbe3537fbabf85a12",
+    "DgtbleHeadspaceCollection":"0x574f64ac2e7215cba9752b85fc73030f35166bc0",
+    "WonderzoneMeteorchaserCollection":"0x34ed0aa248f60f54dd32fbc9883d6137a491f4f3"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
