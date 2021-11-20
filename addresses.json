@@ -179,6 +179,8 @@
     "CollectionStore": "0x6ddF1b1924DAD850AdBc1C02026535464Be06B0c",
     "Marketplace": "0x2a09a000224f5dbe0E17214cA95CDe506DA7CB74",
     "TPR": "0xC6349360CF0143Bf54FDC376060532C044883b8C",
-    "ThirdPartyTiers": "0xdC899B9c1Fa80292606C3cfbA88bbBf0935c2e48"
+    "ThirdPartyTiers": "0xdC899B9c1Fa80292606C3cfbA88bbBf0935c2e48",
+    "RoyaltiesManager":"0x68838E6068a3a925a78546E475dE73C75e4F2651",
+    "MarketplaceV2":""
   }
 }
