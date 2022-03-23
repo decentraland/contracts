@@ -170,6 +170,7 @@
     "FoundationEOACreator1": "0x6ADf75e49bAC21abab9AdB9266d2cC6d90AbD31a"
   },
   "mumbai": {
+    "dAppsAdmin": "0xb919da06d5f81777B13Fc5CBd48635E19500Fbf5",
     "MetaTxForwarder": "0xBF6755A83C0dCDBB2933A96EA778E00b717d7004",
     "MANAToken": "0x882Da5967c435eA5cC6b09150d55E8304B838f45",
     "ChildChainManagerProxy": "0xb5505a6d998549090530911180f38aC5130101c6",
