@@ -157,6 +157,7 @@
     "CommitteeMultisig": "0xB08E3e7cc815213304d884C88cA476ebC50EaAB2",
     "CollectionImplementation": "0x006080C6061C4aF79b39Da0842a3a22A7b3f185e",
     "Rarities": "0x17113b44fdd661A156cc01b5031E3aCF72c32EB3",
+    "RaritiesWithOracle": "0xA9158E22F89Bb3F69c5600338895Cb5FB81e5090",
     "OldCommittee": "0x71d9350Ef44E1e451F00e447C0DfF2d1FB75510a",
     "Committee": "0xaeec95a8aa671a6d3fec56594827d7804964fa70",
     "CollectionManager ": "0x9D32AaC179153A991e832550d9F96441Ea27763A",
