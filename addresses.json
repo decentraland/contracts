@@ -149,7 +149,7 @@
     "EstateMiniMeToken": "0x2b98C125733035cDE09d311F988845808EE270E6",
     "DAOVotingPower": "0xe65835cd7c9311866ae5d260a1eb7b963899ca14",
     "VestingImpl" : "0x8493bb6ae17e12c062b0eb1fe780cc0b2df16bb2",
-    "VestingFactory": "0x64c9f713a743458ab22ec49d88dd00621f528786",
+    "VestingFactory": "0x64c9f713a743458ab22ec49d88dd00621f528786"
   },
   "goerli": {
     "MANAToken": "0xe7fDae84ACaba2A5Ba817B6E6D8A2d415DBFEdbe",
