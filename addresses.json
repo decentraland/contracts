@@ -31,7 +31,10 @@
     "AdapterConverter": "0x2782eb28Dcb1eF4E7632273cd4e347e130Ce4646",
     "POIAllowlist": "0x5DC4a5C214f2161F0D5595a6dDd9352409aE3Ab4",
     "NAMEDenylist": "0x20c6f1e86eba703a14414a0cbc1b55c89dba7a0f",
-    "CollectionsV2Factory": "0x16d8bac5b67a6b782a9081377bec413bc5bb56a6"
+    "CollectionsV2Factory": "0x16d8bac5b67a6b782a9081377bec413bc5bb56a6",
+    "VestingImpl" : "0xc243b243a2033348730420ea55239767802a19d0",
+    "VestingFactory": "0xcbfa36f59246ae43cb827a77f6ca955b93dd6042",
+    "BatchVesting": "0xedbea1174b892f88a836f61de395f5f155d4d2a9"
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
@@ -124,7 +127,10 @@
     "WinklevossCapital": "0xc82a864a94db3550bc71fcb4ce07228bcec21f1a",
     "DGAtariDillonFrancis": "0x51e0b1afe5da0c038fc93a3fc8e11cf7a238b40b",
     "DAOVotingPower": "0xcf9b305b4cd210079f5648f17ede69e666c0c8d4",
-    "TheGraphMultisig": "0x89FDdaB2F93417182CdCdb0B8B3322B93AB3A192"
+    "TheGraphMultisig": "0x89FDdaB2F93417182CdCdb0B8B3322B93AB3A192",
+    "VestingImpl" : "0x42f32e19365d8045661a006408cc6d1064039fbf",
+    "VestingFactory": "0xe357273545c152f07afe2c38257b7b653fd3f6d0",
+    "BatchVesting": "0xc57185366bcda81cde363380e2099758712038d0"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
@@ -141,7 +147,9 @@
     "MANAMiniMeToken": "0xfb2712a1246f712b889692c7ce55fec25c06bc33",
     "LANDMiniMeToken": "0x576c4577aAd561EA79acbd49215a0cC1473BfCCA",
     "EstateMiniMeToken": "0x2b98C125733035cDE09d311F988845808EE270E6",
-    "DAOVotingPower": "0xe65835cd7c9311866ae5d260a1eb7b963899ca14"
+    "DAOVotingPower": "0xe65835cd7c9311866ae5d260a1eb7b963899ca14",
+    "VestingImpl" : "0x8493bb6ae17e12c062b0eb1fe780cc0b2df16bb2",
+    "VestingFactory": "0x64c9f713a743458ab22ec49d88dd00621f528786",
   },
   "goerli": {
     "MANAToken": "0xe7fDae84ACaba2A5Ba817B6E6D8A2d415DBFEdbe",
