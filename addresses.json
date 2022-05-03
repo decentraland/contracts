@@ -38,7 +38,7 @@
   },
   "mainnet": {
     "MANAToken": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "LANDRegistry": "0xa57e126b341b18c262ad25b86bb4f65b5e2ade45",
+    "LANDRegistry": "0x554bb6488ba955377359bed16b84ed0822679cdc",
     "LANDProxy": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
     "TerraformReserve": "0xcca95e580bbbd04851ebfb85f77fd46c9b91f11c",
     "ReturnVesting": "0x79c1fdaba012b9a094c495a86ce5c6199cf86368",
