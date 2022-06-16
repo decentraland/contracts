@@ -155,7 +155,11 @@
     "MANAToken": "0xe7fDae84ACaba2A5Ba817B6E6D8A2d415DBFEdbe",
     "ERC20Predicate": "0xdD6596F2029e6233DEFfaCa316e6A95217d4Dc34",
     "RootChainManagerProxy": "0xbbd7cbfa79faee899eaf900f13c9065bf03b1a74",
-    "RootChainProxy": "0x2890ba17efe978480615e330ecb65333b880928e"
+    "RootChainProxy": "0x2890ba17efe978480615e330ecb65333b880928e",
+    "LANDRegistry": "0x0cfF059845c6Abee7De396d00091016ad72FD324",
+    "LANDProxy": "0x25b6B4bac4aDB582a0ABd475439dA6730777Fbf7",
+    "EstateRegistry": "0x5309aE874FC4eB21adCd63f8b6C3f766Cc3B1849",
+    "EstateProxy": "0xC9A46712E6913c24d15b46fF12221a79c4e251DC"
   },
   "matic": {
     "MetaTxForwarder": "0x0baBda04f62C549A09EF3313Fe187f29c099FF3C",
