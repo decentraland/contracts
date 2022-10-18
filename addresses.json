@@ -130,7 +130,8 @@
     "TheGraphMultisig": "0x89FDdaB2F93417182CdCdb0B8B3322B93AB3A192",
     "VestingImpl": "0x42f32e19365d8045661a006408cc6d1064039fbf",
     "VestingFactory": "0xe357273545c152f07afe2c38257b7b653fd3f6d0",
-    "BatchVesting": "0xc57185366bcda81cde363380e2099758712038d0"
+    "BatchVesting": "0xc57185366bcda81cde363380e2099758712038d0",
+    "SABGnosisSafe": "0x335cb926dBcaf479cC927c4A8803880eEc7123Ac"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
