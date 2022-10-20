@@ -163,7 +163,7 @@
     "EstateProxy": "0xC9A46712E6913c24d15b46fF12221a79c4e251DC",
     "RentalsProxyAdmin": "0xa924cbea79a031baa05d76908644d5c5bedeaaed",
     "RentalsProxy": "0x92159c78f0f4523b9c60382bb888f30f10a46b3b",
-    "RentalsImplementation": "0x39bbc5bde6ad145d882361b0de249086c7bb9b6e",
+    "RentalsImplementation": "0xd23945837e98b221e767f0d6155d23e80d0249d4",
     "MarketplaceProxy": "0x5d01fbD3E22892be40F69bdAE7Ad921C8cdA2085",
     "MarketplaceImplementation": "0x09B389B3523870798f46555fef26B4476A973E6E",
     "MarketplaceLegacyNFT": "0x0fFc7E6D72eE2F287B877533454210621b1B7822",
