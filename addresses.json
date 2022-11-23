@@ -177,11 +177,11 @@
     "NAMEDenylist": "0x71c84760df0537f7db286274817462dc2e6c1366",
     "Catalyst": "0x380e46851c47b73b6aa9bea50cf3b50e2cf637cf",
     "POIAllowlist": "0xb8c7a7afd42675ab61f0a3732f8d0491825a933b",
-    "VestingImpl": "0xa1C496C3beCa1832A8434aC77ee3a1a53881C12E",
-    "PeriodicTokenVestingImpl": "0x3b2149A7573e2b0dD157307D427B9380f8f1b2A1",
+    "VestingImpl": "0xa1c496c3beca1832a8434ac77ee3a1a53881c12e",
+    "PeriodicTokenVestingImpl": "0x3b2149a7573e2b0dd157307d427b9380f8f1b2a1",
     "VestingFactory": "0x11a970e744ff69db8f461c2d0fc91d4293914301",
     "BatchVestings": "0x651440486194aeca2cfff6e344bd604dda8a2d7f",
-    "OwnableBatchVestings_a02F": "0x2aEEbA556765B27f4985B8c5E5aE08Be784f6F06"
+    "OwnableBatchVestings_a02F": "0x2aeeba556765b27f4985b8c5e5ae08be784f6f06"
   },
   "matic": {
     "MetaTxForwarder": "0x0baBda04f62C549A09EF3313Fe187f29c099FF3C",
