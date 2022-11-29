@@ -133,8 +133,8 @@
     "BatchVesting": "0xc57185366bcda81cde363380e2099758712038d0",
     "SABGnosisSafe": "0x335cb926dBcaf479cC927c4A8803880eEc7123Ac",
     "RentalsProxyAdmin": "0xb49882c17281d3451972ae7e476cb3e0698af712",
-    "RentalsProxy": "0xcc94a49c7a81f59f07e0c381b929c4081c437de2",
-    "RentalsImplementation": "0x34262e570782e5a45c08f16c89d15ff75a77b029"
+    "RentalsProxy": "0x3a1469499d0be105d4f77045ca403a5f6dc2f3f5",
+    "RentalsImplementation": "0xe90636e24d8faf02aa0e01c26d72dab9629865cb"
   },
   "kovan": {
     "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
@@ -166,7 +166,7 @@
     "EstateProxy": "0xC9A46712E6913c24d15b46fF12221a79c4e251DC",
     "RentalsProxyAdmin": "0xa924cbea79a031baa05d76908644d5c5bedeaaed",
     "RentalsProxy": "0x92159c78f0f4523b9c60382bb888f30f10a46b3b",
-    "RentalsImplementation": "0xd23945837e98b221e767f0d6155d23e80d0249d4",
+    "RentalsImplementation": "0x619cf59b03a4e0c42850429e154ff7fd1d966b3c",
     "MarketplaceProxy": "0x5d01fbD3E22892be40F69bdAE7Ad921C8cdA2085",
     "MarketplaceImplementation": "0x09B389B3523870798f46555fef26B4476A973E6E",
     "MarketplaceLegacyNFT": "0x0fFc7E6D72eE2F287B877533454210621b1B7822",
