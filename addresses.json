@@ -129,8 +129,11 @@
     "DAOVotingPower": "0xcf9b305b4cd210079f5648f17ede69e666c0c8d4",
     "TheGraphMultisig": "0x89FDdaB2F93417182CdCdb0B8B3322B93AB3A192",
     "VestingImpl": "0x42f32e19365d8045661a006408cc6d1064039fbf",
+    "PeriodicTokenVestingImpl": "0xb76b389cd04595321d51f575f5d950df1cef3dd7",
     "VestingFactory": "0xe357273545c152f07afe2c38257b7b653fd3f6d0",
     "BatchVesting": "0xc57185366bcda81cde363380e2099758712038d0",
+    "OwnableBatchVestingImpl": "0x24b18ac1c0cc1cfa14b03fe5c4580ab85191608a",
+    "MinimalProxyFactory": "0x38971125599c5e5b618072601c4eb803d7b24796",
     "SABGnosisSafe": "0x335cb926dBcaf479cC927c4A8803880eEc7123Ac",
     "RentalsProxyAdmin": "0xb49882c17281d3451972ae7e476cb3e0698af712",
     "RentalsProxy": "0xcc94a49c7a81f59f07e0c381b929c4081c437de2",
@@ -180,8 +183,7 @@
     "VestingImpl": "0xa1c496c3beca1832a8434ac77ee3a1a53881c12e",
     "PeriodicTokenVestingImpl": "0x3b2149a7573e2b0dd157307d427b9380f8f1b2a1",
     "VestingFactory": "0x11a970e744ff69db8f461c2d0fc91d4293914301",
-    "BatchVestings": "0x651440486194aeca2cfff6e344bd604dda8a2d7f",
-    "OwnableBatchVestings_a02F": "0x2aeeba556765b27f4985b8c5e5ae08be784f6f06"
+    "BatchVestings": "0x651440486194aeca2cfff6e344bd604dda8a2d7f"
   },
   "matic": {
     "MetaTxForwarder": "0x0baBda04f62C549A09EF3313Fe187f29c099FF3C",
