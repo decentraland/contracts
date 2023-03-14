@@ -129,25 +129,6 @@
     "VestingFactory": "0x11a970e744ff69db8f461c2d0fc91d4293914301",
     "BatchVestings": "0x651440486194aeca2cfff6e344bd604dda8a2d7f"
   },
-  "kovan": {
-    "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
-    "LANDRegistry": "0x2059291430b9aa2F79547f657816eFb816b36614",
-    "LANDProxy": "0x537263c440943f6a6808bCb8CcB3fe03EE838aD1",
-    "Marketplace": "0x6f44f195999f06aeb5872db96cdc517f1e839f13"
-  },
-  "rinkeby": {
-    "MANAToken": "0x28bce5263f5d7f4eb7e8c6d5d78275ca455bac63",
-    "LANDProxy": "0x28bef22df3e2040a4be64a9ca0e8b5ae2b91462d",
-    "LANDRegistry": "0xbeea8bfb0e582be1c3fb464824e61c218ba0c1b1",
-    "EstateRegistry": "0x3f0b58ad7a8b27d0e5573cd1ca7d456e2f6d4884",
-    "Multisig": "0x0de35b8b47b129877e0efca24e294b61d7e7eee3",
-    "MANAMiniMeToken": "0xfb2712a1246f712b889692c7ce55fec25c06bc33",
-    "LANDMiniMeToken": "0x576c4577aAd561EA79acbd49215a0cC1473BfCCA",
-    "EstateMiniMeToken": "0x2b98C125733035cDE09d311F988845808EE270E6",
-    "DAOVotingPower": "0xe65835cd7c9311866ae5d260a1eb7b963899ca14",
-    "VestingImpl": "0x8493bb6ae17e12c062b0eb1fe780cc0b2df16bb2",
-    "VestingFactory": "0x64c9f713a743458ab22ec49d88dd00621f528786"
-  },
   "matic": {
     "MetaTxForwarder": "0x0baBda04f62C549A09EF3313Fe187f29c099FF3C",
     "MANAToken": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
@@ -203,6 +184,25 @@
     "ERC721Bid": "0x78Dd92c8941dBC7BE54E2a9390D58aD28AD97afD",
     "UpgradeableBeacon": "0x0c8ad1f6aadf89d2eb19f01a100a6143108fe2b0",
     "POI": "0x08E5a5288D6bBa9383724C57175C03A37fe83A2A"
+  },
+  "kovan": {
+    "MANAToken": "0x230fc362413d9e862326c2c7084610a5a2fdf78a",
+    "LANDRegistry": "0x2059291430b9aa2F79547f657816eFb816b36614",
+    "LANDProxy": "0x537263c440943f6a6808bCb8CcB3fe03EE838aD1",
+    "Marketplace": "0x6f44f195999f06aeb5872db96cdc517f1e839f13"
+  },
+  "rinkeby": {
+    "MANAToken": "0x28bce5263f5d7f4eb7e8c6d5d78275ca455bac63",
+    "LANDProxy": "0x28bef22df3e2040a4be64a9ca0e8b5ae2b91462d",
+    "LANDRegistry": "0xbeea8bfb0e582be1c3fb464824e61c218ba0c1b1",
+    "EstateRegistry": "0x3f0b58ad7a8b27d0e5573cd1ca7d456e2f6d4884",
+    "Multisig": "0x0de35b8b47b129877e0efca24e294b61d7e7eee3",
+    "MANAMiniMeToken": "0xfb2712a1246f712b889692c7ce55fec25c06bc33",
+    "LANDMiniMeToken": "0x576c4577aAd561EA79acbd49215a0cC1473BfCCA",
+    "EstateMiniMeToken": "0x2b98C125733035cDE09d311F988845808EE270E6",
+    "DAOVotingPower": "0xe65835cd7c9311866ae5d260a1eb7b963899ca14",
+    "VestingImpl": "0x8493bb6ae17e12c062b0eb1fe780cc0b2df16bb2",
+    "VestingFactory": "0x64c9f713a743458ab22ec49d88dd00621f528786"
   },
   "ropsten": {
     "PrivateNodeWallet": "0x62ba62ff92917edf8ac0386fa10e3b27950bce8d",
