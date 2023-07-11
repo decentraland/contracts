@@ -112,14 +112,8 @@
     "EstateRegistry": "0xd27b7075917579a3d243e4b6a058cef5c0aac5d5",
     "EstateProxy": "0x369a7fbe718c870c79f99fb423882e8dd8b20486",
     "ERC721Bid": "0x2c2835b95852fd975e087b3b25297322728792e2",
-    "ExclusiveMasksCollection": "0x11a970e744ff69db8f461c2d0fc91d4293914301",
     "DCLRegistrar": "0x7518456ae93eb98f3e64571b689c626616bb7f30",
     "DCLControllerV2": "0xd2046364317c21fa8d121d84185c39e6e910cf89",
-    "Catalyst": "0xa8e5aa21f90f62a20782f728268b66281bc25b34",
-    "CatalystProxy": "0x32b3bfddab3ffb719cb8316b65ab92786d06d6e7",
-    "BaseList": "0xf8cdccd793d8d02425e6cabc79e998db08c7ae49",
-    "POIAllowListProxy": "0x525a9423810de2cd6f12ed80c9e6694f371ee3aa",
-    "NameDenyListProxy": "0x215b0d1d2c870719aeb8a2cce24d06ce16d741ec",
     "RentalsImplementation": "0xa77aef8c75a6ad9b84c6dd8b9d148f2a9accfaf5",
     "RentalsProxyAdmin": "0x9d6e8912b8192d5e2f2c9ab1ba62fdfd0488fc5a",
     "RentalsProxy": "0xe70db6319e9cee3f604909bdade58d1f5c1cf702",
@@ -128,7 +122,11 @@
     "VestingFactory": "0x71c84760df0537f7db286274817462dc2e6c1366",
     "BatchVesting": "0x380e46851c47b73b6aa9bea50cf3b50e2cf637cf",
     "OwnableBatchVestingImpl": "0xb8c7a7afd42675ab61f0a3732f8d0491825a933b",
-    "MinimalProxyFactory": "0xa4ea879211c35260d3c470f773b49241ecb561a7"
+    "MinimalProxyFactory": "0xa4ea879211c35260d3c470f773b49241ecb561a7",
+    "ExclusiveMasksCollection": "0x11a970e744ff69db8f461c2d0fc91d4293914301",
+    "NAMEDenylist": "0x6082b0b10b0fe9040652e35acbf3a22fe6764f27",
+    "Catalyst": "0x9b5091588a4bae0a5ea54a35af3c31f57a68ed37",
+    "POIAllowlist": "0xff7fcdbeaf0a5f2c408564036a9afaef9f38182d"
   },
   "goerli": {
     "MANAToken": "0xe7fDae84ACaba2A5Ba817B6E6D8A2d415DBFEdbe",
