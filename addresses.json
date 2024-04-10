@@ -184,6 +184,26 @@
     "UpgradeableBeacon": "0xDDb3781Fff645325C8896AA1F067bAa381607ecc",
     "POI": "0xFEC09d5C192aaf7Ec7E2C89Cc8D3224138391B2E"
   },
+  "amoy": {
+    "MetaTxForwarder": "0x3dd1fef020741386bf9c8d905b7e2b02a668ccda",
+    "MANAToken": "0x7ad72b9f944ea9793cf4055d88f81138cc2c63a0",
+    "CollectionImplementation": "0x3195e88ae10704b359764cb38e429d24f1c2f781",
+    "Rarities": "0xddb3781fff645325c8896aa1f067baa381607ecc",
+    "RaritiesWithOracle": "0x25b6b4bac4adb582a0abd475439da6730777fbf7",
+    "Committee": "0x53c9c388000b6fc91b91fb466742d0e869785c3b",
+    "CollectionManager ": "0x5309ae874fc4eb21adcd63f8b6c3f766cc3b1849",
+    "Forwarder": "0x7b1fe9de545b22cb553766817b84d655ce8121c9",
+    "CollectionFactoryV3": "0xe21289022b9324f9b9145a91ee59297ceb040c06",
+    "CollectionStore": "0xe36abc9ec616c83caaa386541380829106149d68",
+    "TPR": "0x41e07f9d48586df0ac59a09a940ffdf4af306a13",
+    "ChainlinkOracle": "0x7474ae33311ad160ed35c8d9cea95f0856ca782a",
+    "DummyDataFeed": "0xa9158e22f89bb3f69c5600338895cb5fb81e5090",
+    "RoyaltiesManager": "0x0cff059845c6abee7de396d00091016ad72fd324",
+    "MarketplaceV2": "0x0c8ad1f6aadf89d2eb19f01a100a6143108fe2b0",
+    "ERC721Bid": "0x4b66eab79cc03a96fb6275cfcdf23c0db431606d",
+    "UpgradeableBeacon": "0x1a91dd8d4eeddc2fac31f36818604b7093dc95e0",
+    "POI": "0x7a0fad6854de8df1245da952cd3ae7f6893154c1"
+  },
   "mumbai": {
     "dAppsAdmin": "0xb919da06d5f81777B13Fc5CBd48635E19500Fbf5",
     "MetaTxForwarder": "0xBF6755A83C0dCDBB2933A96EA778E00b717d7004",
