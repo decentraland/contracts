@@ -105,6 +105,8 @@
   },
   "sepolia": {
     "MANAToken": "0xfa04d2e2ba9aec166c93dfeeba7427b2303befa9",
+    "ERC20Predicate": "0x4258c75b752c812b7fa586bdeb259f2d4bd17f4f",
+    "RootChainManagerProxy": "0x34F5A25B627f50Bb3f5cAb72807c4D4F405a9232",
     "LANDRegistry": "0xe8737b4d17df2f54fff5193a225561a9ff99b11f",
     "LANDProxy": "0x42f4ba48791e2de32f5fbf553441c2672864bb33",
     "Marketplace": "0x5e1870e444e4a25333494c3cfda0609f13fd806a",
