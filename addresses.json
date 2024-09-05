@@ -101,7 +101,8 @@
     "SABGnosisSafe": "0x335cb926dBcaf479cC927c4A8803880eEc7123Ac",
     "RentalsProxyAdmin": "0xb49882c17281d3451972ae7e476cb3e0698af712",
     "RentalsProxy": "0x3a1469499d0be105d4f77045ca403a5f6dc2f3f5",
-    "RentalsImplementation": "0xe90636e24d8faf02aa0e01c26d72dab9629865cb"
+    "RentalsImplementation": "0xe90636e24d8faf02aa0e01c26d72dab9629865cb",
+    "MarketplaceV3": "0xb115402a3ad566363ec0ae690dd7fe0f5b96988f"
   },
   "sepolia": {
     "MANAToken": "0xfa04d2e2ba9aec166c93dfeeba7427b2303befa9",
@@ -157,7 +158,10 @@
     "ERC721Bid": "0xb96697FA4A3361Ba35B774a42c58dACcaAd1B8E1",
     "FoundationEOACreator1": "0x6ADf75e49bAC21abab9AdB9266d2cC6d90AbD31a",
     "UpgradeableBeacon": "0xDDb3781Fff645325C8896AA1F067bAa381607ecc",
-    "POI": "0xFEC09d5C192aaf7Ec7E2C89Cc8D3224138391B2E"
+    "POI": "0xFEC09d5C192aaf7Ec7E2C89Cc8D3224138391B2E",
+    "MarketplaceV3": "0xedc74948a2fdcdaaa0c44853d2dcaf586f3f87c4",
+    "CouponManager": "0xe081295278df031b9163bc69b34c1f139918ca8e",
+    "CollectionDiscountCoupon": "0xc914507fe297b2dddd1232ac3a8903f1c125e794"
   },
   "amoy": {
     "MetaTxForwarder": "0x3dd1fef020741386bf9c8d905b7e2b02a668ccda",
