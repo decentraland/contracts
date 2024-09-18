@@ -170,6 +170,7 @@
     "CollectionFactoryV3": "0x802de0c509add2ee29de24de7225daaff4741c43",
     "CollectionStore": "0xe36abc9ec616c83caaa386541380829106149d68",
     "TPR": "0x41e07f9d48586df0ac59a09a940ffdf4af306a13",
+    "TPRV3": "0x7d7c0b9d97385bada5fec6861e97d0df414af3c3",
     "ChainlinkOracle": "0x7474ae33311ad160ed35c8d9cea95f0856ca782a",
     "DummyDataFeed": "0xa9158e22f89bb3f69c5600338895cb5fb81e5090",
     "RoyaltiesManager": "0x0cff059845c6abee7de396d00091016ad72fd324",
