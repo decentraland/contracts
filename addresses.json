@@ -130,7 +130,10 @@
     "NAMEDenylist": "0x6082b0b10b0fe9040652e35acbf3a22fe6764f27",
     "Catalyst": "0x9b5091588a4bae0a5ea54a35af3c31f57a68ed37",
     "POIAllowlist": "0xff7fcdbeaf0a5f2c408564036a9afaef9f38182d",
-    "MarketplaceV3": "0x868BD98613a5C7f6e67C23BD0A4b14E4663ACF71"
+    "MarketplaceV3": "0x347ece82d01a2e7371fd3c1d2f6d4e85029b863f",
+    "MarketplaceV3MockAggregatorManaEth": "0x8184125efb44e8a3950fce7c3ad5292f1d448968",
+    "MarketplaceV3MockAggregatorEthUsd": "0x0cf2901c01df53f868dcf6bb6680cfd9859ea3e1",
+    "MarketplaceV3CouponManager": "0x640969bfa2fea201aeb9f482e5ddddc25586e82c"
   },
    "matic": {
     "MetaTxForwarder": "0x0baBda04f62C549A09EF3313Fe187f29c099FF3C",
@@ -181,7 +184,10 @@
     "ERC721Bid": "0x4b66eab79cc03a96fb6275cfcdf23c0db431606d",
     "UpgradeableBeacon": "0x1a91dd8d4eeddc2fac31f36818604b7093dc95e0",
     "POI": "0x7a0fad6854de8df1245da952cd3ae7f6893154c1",
-    "MarketplaceV3": "0xeeaf5d2dd4b8930039770285aa9be2cf6a9836b4"
+    "MarketplaceV3": "0x55f4d82b0f6a105b9f1959f10a660a4395d755ab",
+    "MarketplaceV3MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e",
+    "MarketplaceV3CollectionDiscountCoupon": "0x54df9990a3fd9443b9e84f9f5944904704756074",
+    "MarketplaceV3CouponManager": "0x6fd731cf2dc7cde2812a6a7194af8b232851a950"
   },
   "arbitrum": {
     "GRTMultisig": "0x9be99A553C598898Ff4718e6b1A25Cc37e398943"
