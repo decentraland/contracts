@@ -131,8 +131,8 @@
     "Catalyst": "0x9b5091588a4bae0a5ea54a35af3c31f57a68ed37",
     "POIAllowlist": "0xff7fcdbeaf0a5f2c408564036a9afaef9f38182d",
     "MarketplaceV3": "0x54bdd3ffc1448bdab0251f05dd554eec803adb2f",
-    "MarketplaceV3MockAggregatorManaEth": "0x8184125efb44e8a3950fce7c3ad5292f1d448968",
-    "MarketplaceV3MockAggregatorEthUsd": "0x0cf2901c01df53f868dcf6bb6680cfd9859ea3e1"
+    "MockAggregatorManaEth": "0x8184125efb44e8a3950fce7c3ad5292f1d448968",
+    "MockAggregatorEthUsd": "0x0cf2901c01df53f868dcf6bb6680cfd9859ea3e1"
   },
    "matic": {
     "MetaTxForwarder": "0x0baBda04f62C549A09EF3313Fe187f29c099FF3C",
@@ -186,9 +186,9 @@
     "UpgradeableBeacon": "0x1a91dd8d4eeddc2fac31f36818604b7093dc95e0",
     "POI": "0x7a0fad6854de8df1245da952cd3ae7f6893154c1",
     "MarketplaceV3": "0x6ab20ae56673ed65f520b7be332aeb61b3ed727d",
-    "MarketplaceV3MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e",
-    "MarketplaceV3CollectionDiscountCoupon": "0x54df9990a3fd9443b9e84f9f5944904704756074",
-    "MarketplaceV3CouponManager": "0x910308308066ac75f2212c06596f54922b44e6bd"
+    "CouponManager": "0x910308308066ac75f2212c06596f54922b44e6bd",
+    "CollectionDiscountCoupon": "0x54df9990a3fd9443b9e84f9f5944904704756074",
+    "MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e"
   },
   "arbitrum": {
     "GRTMultisig": "0x9be99A553C598898Ff4718e6b1A25Cc37e398943"
