@@ -186,6 +186,7 @@
     "UpgradeableBeacon": "0x1a91dd8d4eeddc2fac31f36818604b7093dc95e0",
     "POI": "0x7a0fad6854de8df1245da952cd3ae7f6893154c1",
     "MarketplaceV3": "0x6ab20ae56673ed65f520b7be332aeb61b3ed727d",
+    "CreditsManager": "0x1985fa82b531cb4e20f103787eba99de67b5c25c",
     "CouponManager": "0x910308308066ac75f2212c06596f54922b44e6bd",
     "CollectionDiscountCoupon": "0x54df9990a3fd9443b9e84f9f5944904704756074",
     "MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e"
