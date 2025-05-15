@@ -165,7 +165,8 @@
     "MarketplaceV3": "0x540fb08edb56aae562864b390542c97f562825ba",
     "CreditsManager": "0x6a03991dfa9d661ef7ad3c6f88b31f16e5a282cf",
     "CouponManager": "0x90cb68d170275da51d2a645bdf70be29d215bda7",
-    "CollectionDiscountCoupon": "0xc914507fe297b2dddd1232ac3a8903f1c125e794"
+    "CollectionDiscountCoupon": "0xc914507fe297b2dddd1232ac3a8903f1c125e794",
+    "MarketplaceCredits": "0xe9f961e6ded4e1476bbee4faab886d63a2493eb9"
   },
   "amoy": {
     "MetaTxForwarder": "0x3dd1fef020741386bf9c8d905b7e2b02a668ccda",
