@@ -134,7 +134,7 @@
     "MockAggregatorManaEth": "0x8184125efb44e8a3950fce7c3ad5292f1d448968",
     "MockAggregatorEthUsd": "0x0cf2901c01df53f868dcf6bb6680cfd9859ea3e1"
   },
-   "matic": {
+  "matic": {
     "MetaTxForwarder": "0x0baBda04f62C549A09EF3313Fe187f29c099FF3C",
     "MANAToken": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
     "ChildChainManagerProxy": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
@@ -190,7 +190,7 @@
     "CouponManager": "0x910308308066ac75f2212c06596f54922b44e6bd",
     "CollectionDiscountCoupon": "0x54df9990a3fd9443b9e84f9f5944904704756074",
     "MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e",
-    "CreditsManager": "0xa1691afad71b9a92d329f1a95c39d3077d8f2f5f"
+    "CreditsManager": "0x037566bc90f85e76587e1b07f9184585f09c1420"
   },
   "arbitrum": {
     "GRTMultisig": "0x9be99A553C598898Ff4718e6b1A25Cc37e398943"
