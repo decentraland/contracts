@@ -102,7 +102,8 @@
     "RentalsProxyAdmin": "0xb49882c17281d3451972ae7e476cb3e0698af712",
     "RentalsProxy": "0x3a1469499d0be105d4f77045ca403a5f6dc2f3f5",
     "RentalsImplementation": "0xe90636e24d8faf02aa0e01c26d72dab9629865cb",
-    "MarketplaceV3": "0x2d6b3508f9aca32d2550f92b2addba932e73c1ff"
+    "MarketplaceV3": "0x2d6b3508f9aca32d2550f92b2addba932e73c1ff",
+    "MarketplaceV4": "0x1b67d0e31eeb6b52d8eeed71d3616c2f5b33b8e7"
   },
   "sepolia": {
     "MANAToken": "0xfa04d2e2ba9aec166c93dfeeba7427b2303befa9",
@@ -131,6 +132,7 @@
     "Catalyst": "0x9b5091588a4bae0a5ea54a35af3c31f57a68ed37",
     "POIAllowlist": "0xff7fcdbeaf0a5f2c408564036a9afaef9f38182d",
     "MarketplaceV3": "0x54bdd3ffc1448bdab0251f05dd554eec803adb2f",
+    "MarketplaceV4": "0x1b67d0e31eeb6b52d8eeed71d3616c2f5b33b8e7",
     "MockAggregatorManaEth": "0x8184125efb44e8a3950fce7c3ad5292f1d448968",
     "MockAggregatorEthUsd": "0x0cf2901c01df53f868dcf6bb6680cfd9859ea3e1"
   },
@@ -163,9 +165,10 @@
     "UpgradeableBeacon": "0xDDb3781Fff645325C8896AA1F067bAa381607ecc",
     "POI": "0xFEC09d5C192aaf7Ec7E2C89Cc8D3224138391B2E",
     "MarketplaceV3": "0x540fb08edb56aae562864b390542c97f562825ba",
+    "MarketplaceV4": "0xa40b1d129b8906888720686f3a01921ddf37716f",
     "CouponManager": "0x90cb68d170275da51d2a645bdf70be29d215bda7",
     "CollectionDiscountCoupon": "0xc914507fe297b2dddd1232ac3a8903f1c125e794",
-    "CreditsManager": "0xe9f961e6ded4e1476bbee4faab886d63a2493eb9"
+    "CreditsManager": "0x8b3a40ca1b6f5cafc99d112a4d02e897d1fd8cc5"
   },
   "amoy": {
     "MetaTxForwarder": "0x3dd1fef020741386bf9c8d905b7e2b02a668ccda",
@@ -187,10 +190,11 @@
     "UpgradeableBeacon": "0x1a91dd8d4eeddc2fac31f36818604b7093dc95e0",
     "POI": "0x7a0fad6854de8df1245da952cd3ae7f6893154c1",
     "MarketplaceV3": "0x6ab20ae56673ed65f520b7be332aeb61b3ed727d",
+    "MarketplaceV4": "0x1b67d0e31eeb6b52d8eeed71d3616c2f5b33b8e7",
     "CouponManager": "0x910308308066ac75f2212c06596f54922b44e6bd",
     "CollectionDiscountCoupon": "0x54df9990a3fd9443b9e84f9f5944904704756074",
     "MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e",
-    "CreditsManager": "0x037566bc90f85e76587e1b07f9184585f09c1420"
+    "CreditsManager": "0x8052a560e6e6ac86eeb7e711a4497f639b322fb3"
   },
   "arbitrum": {
     "GRTMultisig": "0x9be99A553C598898Ff4718e6b1A25Cc37e398943"
