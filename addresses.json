@@ -168,6 +168,7 @@
     "MarketplaceV4": "0xa40b1d129b8906888720686f3a01921ddf37716f",
     "CouponManager": "0x90cb68d170275da51d2a645bdf70be29d215bda7",
     "CollectionDiscountCoupon": "0xc914507fe297b2dddd1232ac3a8903f1c125e794",
+    "CreditsManagerDeprecated": "0xe9f961e6ded4e1476bbee4faab886d63a2493eb9",
     "CreditsManager": "0x8b3a40ca1b6f5cafc99d112a4d02e897d1fd8cc5"
   },
   "amoy": {
@@ -194,6 +195,7 @@
     "CouponManager": "0x910308308066ac75f2212c06596f54922b44e6bd",
     "CollectionDiscountCoupon": "0x54df9990a3fd9443b9e84f9f5944904704756074",
     "MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e",
+    "CreditsManagerDeprecated": "0x037566bc90f85e76587e1b07f9184585f09c1420",
     "CreditsManager": "0x8052a560e6e6ac86eeb7e711a4497f639b322fb3"
   },
   "arbitrum": {
