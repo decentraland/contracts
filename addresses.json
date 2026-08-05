@@ -173,7 +173,8 @@
     "CollectionDiscountCoupon": "0xc914507fe297b2dddd1232ac3a8903f1c125e794",
     "CreditsManager_DEPRECATED": "0xe9f961e6ded4e1476bbee4faab886d63a2493eb9",
     "CreditsManager": "0x8b3a40ca1b6f5cafc99d112a4d02e897d1fd8cc5",
-    "FeeCollector": "0x184e4D9A26Add0aF1eAfC145550E890a421f16d7"
+    "FeeCollector": "0x184e4D9A26Add0aF1eAfC145550E890a421f16d7",
+    "ManaUsdAggregator": "0xA1CbF3Fe43BC3501e3Fc4b573e822c70e76A7512"
   },
   "amoy": {
     "MetaTxForwarder": "0x3dd1fef020741386bf9c8d905b7e2b02a668ccda",
