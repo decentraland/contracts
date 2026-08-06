@@ -174,7 +174,9 @@
     "CreditsManager_DEPRECATED": "0xe9f961e6ded4e1476bbee4faab886d63a2493eb9",
     "CreditsManager": "0x8b3a40ca1b6f5cafc99d112a4d02e897d1fd8cc5",
     "FeeCollector": "0x184e4D9A26Add0aF1eAfC145550E890a421f16d7",
-    "ManaUsdAggregator": "0xA1CbF3Fe43BC3501e3Fc4b573e822c70e76A7512"
+    "ManaUsdAggregator": "0xA1CbF3Fe43BC3501e3Fc4b573e822c70e76A7512",
+    "RegisterNameCrossChainExecutor_CORAL": "0x84c682B1b862859730446BCA5b853A5693aEfC84",
+    "RegisterNameCrossChainExecutor_ACROSS": "0xc9A9c416FbFd424D09e3F905142799abb10c2FA7"
   },
   "amoy": {
     "MetaTxForwarder": "0x3dd1fef020741386bf9c8d905b7e2b02a668ccda",
