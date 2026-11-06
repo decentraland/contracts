@@ -213,7 +213,8 @@
     "CollectionDiscountCoupon_DEPRECATED": "0x54df9990a3fd9443b9e84f9f5944904704756074",
     "MockAggregatorManaUsd": "0xdcf00f5f60b62b07e668a84c0cedaf6f453d416e",
     "CreditsManager_DEPRECATED": "0x037566bc90f85e76587e1b07f9184585f09c1420",
-    "CreditsManager": "0x8052a560e6e6ac86eeb7e711a4497f639b322fb3"
+    "CreditsManager": "0x8052a560e6e6ac86eeb7e711a4497f639b322fb3",
+    "CreditsManager_DCL_ONE": "0xb65fd692d15c30c3adcacdd5ccf80e1facecfc7c"
   },
   "arbitrum": {
     "GRTMultisig": "0x9be99A553C598898Ff4718e6b1A25Cc37e398943"
